@@ -1,0 +1,15 @@
+h1{
+font-size: larger;
+ color: blue;
+ font-family: 'Courier New', Courier, monospace;
+ justify-content: center;
+ letter-spacing: 4px;
+}
+p{
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: green;
+    justify-content: flex-end;
+    letter-spacing: 4px;
+}
+

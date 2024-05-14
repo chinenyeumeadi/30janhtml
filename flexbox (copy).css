@@ -1,0 +1,9 @@
+.flex-container>div{
+background-color: blue;
+margin: 100px;
+padding: 25px;
+font-size: 25px;
+flex-direction:column-reverse;
+flex-wrap: wrap;
+display:flex;
+}
